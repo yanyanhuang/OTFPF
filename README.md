@@ -4,6 +4,7 @@ Optimal transport based feature pyramid fusion (OTFPF) network, an end-to-end ne
 ## Results
 ![results](figures/scatter_fig.png)
 
+## Future works for pathological analyses based on OTFPF network
 ![results](figures/OTFPF_pathlogical.png)
 
 ## Acknowledgment
