@@ -4,5 +4,7 @@ Optimal transport based feature pyramid fusion (OTFPF) network, an end-to-end ne
 ## Results
 ![results](figures/scatter_fig.png)
 
+![results](figures/OTFPF_pathlogical.png)
+
 ## Acknowledgment
 This is the repository for our paper which was submitted to *The 25th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2022*. And the code will be released after final desicision.
