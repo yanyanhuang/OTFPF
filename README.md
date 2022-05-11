@@ -1,4 +1,4 @@
-# OTFPF: Optimal transport based feature pyramid fusion network
+# OTFPF: Optimal Transport-Based Feature Pyramid Fusion Network for Brain Age Estimation with 3D Overlapped ConvNeXt
 Optimal transport based feature pyramid fusion (OTFPF) network, an end-to-end neural network architecture for the brain age estimation with T1 MRIs.
 
 ## Framework
